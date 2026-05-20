@@ -168,13 +168,14 @@ It showcases the ability to work with real-world messy datasets and solve busine
 
 ---
 
-## 📬 Connect With Me
-### 👨‍💻 Aditya Tomar
-- LinkedIn: Add your LinkedIn profile here
-- GitHub: Add your GitHub profile here
+## 👨‍💻 Author
+
+### Aditya Tomar
+
 
 ---
 
-## ⭐ If You Like This Project
-Give this repository a ⭐ on GitHub and share it with others learning SQL and Data Analytics.
+## ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub.
 
